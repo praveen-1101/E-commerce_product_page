@@ -1,0 +1,144 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Product Details Page</title>
+    <link rel="stylesheet" href="style.css">
+    <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+</head>
+<body>
+    <nav>
+        <div class="logo">DI<span class="wow">G</span>I-KART</div>
+        <ul>
+            <li><a href="#">Home</a></li>
+            <li><a href="#">Products</a></li>
+            <li><a href="#">Offers</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#" class="rem">Contact</a></li>
+            <i class='bx bx-cart'></i>
+        </ul>
+    </nav>
+    <!--   <div class="search">
+        <input type="search" placeholder="Search your item...">
+        <i class='bx bx-search-alt-2' ></i>
+    </div> -->
+
+    <div class="flex-box">
+        <div class="left">
+            <div class="big-img">
+                <img src="img/p1.png">
+            </div>
+            <div class="other">
+                <i class="bx bx-heart" id="first"></i>
+                    <div class="circle">
+                    <i class="bx bxs-circle" id="var"></i> 
+                    <i class="bx bx-radio-circle"></i> 
+                    <i class="bx bx-radio-circle"></i>  
+                    <i class="bx bx-radio-circle"></i> 
+                    </div>              
+                <i class="bx bxs-share-alt" id="third"></i>
+            </div>
+            <!-- <p class="bought">300+ bought in last month</p> -->
+
+            <div class="images">
+                <div class="small-img">
+                    <img src="img/p1.png" onclick="showImg(this.src)">
+                </div>
+                <div class="small-img">
+                    <img src="img/p2.png" onclick="showImg(this.src)">
+                </div>
+                <div class="small-img">
+                    <img src="img/p3.png" onclick="showImg(this.src)">
+                </div>
+                <div class="small-img">
+                    <img src="img/p4.png" onclick="showImg(this.src)">
+                </div>
+            </div>
+        </div>
+
+        <div class="right">
+            <div class="pname">T-Shirts for Men</div>
+            <div class="head">
+            <h4> Brand:</h4>
+            <h3 class="showers"><pre>ZUDIO</pre></h3>
+            <br>
+            <p class="para">
+                Duffers Printed t shirts for Men & Women || <br>
+                My Life My Rules || Round Neck Tshirt Half Sleeve ||
+                Cotton Funny Saying T-Shirts
+            </p>
+            </div>
+            <div class="ratings">
+                <p ><pre class="rate">4.5 </pre></p>
+                <i class='bx bxs-star'></i>
+                <i class='bx bxs-star'></i>
+                <i class='bx bxs-star'></i>
+                <i class='bx bxs-star'></i>
+                <i class='bx bxs-star-half' ></i>
+            </div>
+                
+             <div class="price"><span class="discount">-55% </span><span class="after"> ₹ 449</span><br> 
+                <!-- <div class="mr">M.R.P. : </div> <pre><del><p class="original">₹999</p></del> </pre> </BR>
+                <span class="color"><b>FREE </b> delivery </span> <span class="color"><b>Saturday, 1 June. </b></span><a href="#" class="detail"><pre> Details</pre></a>
+                <br>
+                <p class="fast">Or fastest delivery <span class="color"><b>Tomorrow.</b></span> Order within <span class="color">9hrs 28mins.</span><br><br> 
+                 <b>In Stock</b></div> --></div>
+            <div class="size">
+                <p class="si">Size :</p>
+                <div class="sizes active"><label for="M">M</label></div>
+                <div class="sizes" ><label for="L">L</label></div>
+                <div class="sizes"><label for="XL">XL</label></div>
+                <div class="sizes"><label for="XXL">XXL</label></div>
+            </div>
+            <div class="quantity">
+                <select name="qty" class="qty" id="qt">
+                <option value="1">Qty:  1</option>
+                <option value="2">Qty:  2</option>
+                <option value="3">Qty:  3</option>
+                <option value="4">Qty:  4</option>
+                <option value="5">Qty:  5</option>
+                <option value="6">Qty:  6</option>
+                <option value="7">Qty:  7</option>
+                <option value="8">Qty:  8</option>
+                <option value="9">Qty:  9</option>
+                <option value="10">Qty:  10</option>
+            </select>
+            </div>
+            <div class="btn-box">
+                <button class="cart-btn" id="crt"onclick="alert('Added to your cart successfully')">Add to Cart</button>
+                <button class="buy-btn" id="buy">Buy Now</button>
+            </div>
+            <div class="product-details">
+                <div class="row-1">
+                    <h3>Material </h3>
+                    <p>Cotton</p>
+                    <h3>Sleeve Type</h3>
+                    <p>Short Sleeve</p>
+                    <h3>Neck Style</h3>
+                    <p>Crew Neck</p>
+                </div>
+                <div class="row-1">
+                    <h3 class="pat">Pattern</h3>
+                    <p class="printed">Printed</p>
+                    <h3>Fit Type</h3>
+                    <p class="fit">Regular Fit</p>
+                    <h3>Length</h3>
+                    <p class="len">Standard Length</p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <footer>
+        <div class="footer__bar">
+            &copy; 2024 Bora Praveen Kumar. All rights reserved
+        </div>  
+    </footer>
+    <script>
+        let bigImg = document.querySelector('.big-img img');
+        function showImg(pic){
+            bigImg.src = pic;
+        }
+    </script>
+</body>
+</html>
