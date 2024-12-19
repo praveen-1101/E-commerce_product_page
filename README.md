@@ -1,6 +1,6 @@
 # E-commerce_product_page
 This is a <strong>responsive and interactive e-commerce product page
-</strong> built using modern web development technologies. The page is designed to showcase products, allow users to view details, and add items to a shopping cart.<br><br>
+</strong> built using modern web development technologies. The page is designed to showcase a product, allow users to view details.<br><br>
 ## Features
 <b>The product page is optimized for an exceptional user experience across various devices and screen sizes:<b><br>
 - **Mobile-Friendly Layout:** Compact navigation, touch-friendly buttons, and vertically stacked components for easy scrolling.<br>
