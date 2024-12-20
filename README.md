@@ -14,3 +14,7 @@ The product information is presented in a visually appealing and structured form
 - **Details Section:** Organized product titles, concise descriptions, and essential features.
 - **Pricing Highlights:** Prominent display of pricing, discounts, and special offers.
 - **Customer Reviews:** User ratings, star-based reviews, and testimonials to build trust.
+<br><br>
+### **Image Carousel**
+An interactive carousel enhances the visual browsing experience:
+- **Thumbnail Navigation:** Quickly switch between images with clickable thumbnails.
