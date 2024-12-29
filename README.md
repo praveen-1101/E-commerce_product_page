@@ -9,7 +9,10 @@ The product page is optimized for an exceptional user experience across various 
 - **Desktop View:** Grid-based design with intuitive navigation, hover effects, and detailed product displays for immersive browsing.<br>
 - **Retina-Ready:** High-quality visuals and scalable vector icons for stunning clarity on high-resolution screens.
 <br><br>
-### **Technologies Used**<br><br>
+### **Technologies Used**
+**HTML5**: For structuring the page content.
+**CSS3**: For styling and responsive layout.
+**JavaScript**: For interactivity and dynamic updates.<br><br>
 ### **Product Display**
 The product information is presented in a visually appealing and structured format:
 - **High-Quality Images:** Zoom-in functionality for detailed viewing.
