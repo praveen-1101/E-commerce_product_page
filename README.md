@@ -14,12 +14,12 @@ The product page is optimized for an exceptional user experience across various 
 <li>CSS3: For styling and responsive layout.</li>
 <li>JavaScript: For interactivity and dynamic updates.</li><br><br>
 <strong>Product Display</strong><br><br>
-The product information is presented in a visually appealing and structured format:<br>
+The product information is presented in a visually appealing and structured format:<br><br>
 <li>High-Quality Images: Zoom-in functionality for detailed viewing.</li>
 <li>Details Section: Organized product titles, concise descriptions, and essential features.</li>
 <li>Pricing Highlights: Prominent display of pricing, discounts, and special offers.</li>
 <li>Customer Reviews: User ratings, star-based reviews, and testimonials to build trust.</li>
 <br><br>
-### **Image Carousel**
+<strong>Image Carousel</strong><br>
 An interactive carousel enhances the visual browsing experience:
-- **Thumbnail Navigation:** Quickly switch between images with clickable thumbnails.
+<li>Thumbnail Navigation: Quickly switch between images with clickable thumbnails.</li><br><br>
