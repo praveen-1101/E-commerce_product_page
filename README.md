@@ -1,4 +1,4 @@
-# E-commerce_product_page
+# E-Commerce Product Page
 This is a <strong>responsive and interactive e-commerce product page
 </strong> built using modern web development technologies. The page is designed to showcase a product, allow users to view details.<br><br>
 ## Features
