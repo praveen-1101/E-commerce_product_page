@@ -10,9 +10,9 @@ The product page is optimized for an exceptional user experience across various 
 - **Retina-Ready:** High-quality visuals and scalable vector icons for stunning clarity on high-resolution screens.
 <br><br>
 ### **Technologies Used**
-**HTML5**: For structuring the page content.<br>
-**CSS3**: For styling and responsive layout.<br>
-**JavaScript**: For interactivity and dynamic updates.<br><br>
+<li>**HTML5**: For structuring the page content.</li>
+<li?>**CSS3**: For styling and responsive layout.</li>
+<li>**JavaScript**: For interactivity and dynamic updates.</li><br><br>
 ### **Product Display**
 The product information is presented in a visually appealing and structured format:
 - **High-Quality Images:** Zoom-in functionality for detailed viewing.
