@@ -13,8 +13,8 @@ The product page is optimized for an exceptional user experience across various 
 <li>HTML5: For structuring the page content.</li>
 <li>CSS3: For styling and responsive layout.</li>
 <li>JavaScript: For interactivity and dynamic updates.</li><br><br>
-### <strong>Product Display</strong><br>
-The product information is presented in a visually appealing and structured format:</li>
+<strong>Product Display</strong><br><br>
+The product information is presented in a visually appealing and structured format:<br>
 <li>High-Quality Images: Zoom-in functionality for detailed viewing.</li>
 <li>Details Section: Organized product titles, concise descriptions, and essential features.</li>
 <li>Pricing Highlights: Prominent display of pricing, discounts, and special offers.</li>
