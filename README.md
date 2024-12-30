@@ -12,8 +12,8 @@ The product page is optimized for an exceptional user experience across various 
 ### **Technologies Used**
 <li>HTML5: For structuring the page content.</li>
 <li>CSS3: For styling and responsive layout.</li>
-<li>JavaScript: For interactivity and dynamic updates.</li><br><br>
-<h3>Product Display</h3><br>
+<li>JavaScript: For interactivity and dynamic updates.</li><br>
+<h3>Product Display</h3>
 The product information is presented in a visually appealing and structured format:<br><br>
 <li>High-Quality Images: Zoom-in functionality for detailed viewing.</li>
 <li>Details Section: Organized product titles, concise descriptions, and essential features.</li>
