@@ -32,3 +32,6 @@ This project is licensed under the MIT License.
 <h3>Contributing</h3>
 Contributions are welcome! Feel free to fork this repository, make improvements, and submit a pull request.
 
+<h3>Contact</h3>
+For any questions or suggestions, please reach out at:
+<li>GitHub: your-username</li>
