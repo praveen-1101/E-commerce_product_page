@@ -8,7 +8,7 @@ The product page is optimized for an exceptional user experience across various 
 - **Tablet Optimization:** Balanced grid layout with larger tap targets and collapsible menus for better space utilization.<br>
 - **Desktop View:** Grid-based design with intuitive navigation, hover effects, and detailed product displays for immersive browsing.<br>
 - **Retina-Ready:** High-quality visuals and scalable vector icons for stunning clarity on high-resolution screens.
-<br><br>
+<br>
 ### Technologies Used
 <li>HTML5: For structuring the page content.</li>
 <li>CSS3: For styling and responsive layout.</li>
@@ -19,7 +19,7 @@ The product information is presented in a visually appealing and structured form
 <li>Details Section: Organized product titles, concise descriptions, and essential features.</li>
 <li>Pricing Highlights: Prominent display of pricing, discounts, and special offers.</li>
 <li>Customer Reviews: User ratings, star-based reviews, and testimonials to build trust.</li>
-<br><br>
+<br>
 <h3>Image Carousel</h3>
 An interactive carousel enhances the visual browsing experience:<br>
 <li>Thumbnail Navigation: Quickly switch between images with clickable thumbnails.</li><br><br>
@@ -29,3 +29,6 @@ An interactive carousel enhances the visual browsing experience:<br>
 <li>Integrate a payment gateway.</li>
 <h3>License</h3>
 This project is licensed under the MIT License.
+<h3>Contributing</h3>
+Contributions are welcome! Feel free to fork this repository, make improvements, and submit a pull request.
+
