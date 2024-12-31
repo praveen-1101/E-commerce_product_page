@@ -9,7 +9,7 @@ The product page is optimized for an exceptional user experience across various 
 - **Desktop View:** Grid-based design with intuitive navigation, hover effects, and detailed product displays for immersive browsing.<br>
 - **Retina-Ready:** High-quality visuals and scalable vector icons for stunning clarity on high-resolution screens.
 <br>
-### Technologies Used
+<h3>Technologies Used</h3>
 <li>HTML5: For structuring the page content.</li>
 <li>CSS3: For styling and responsive layout.</li>
 <li>JavaScript: For interactivity and dynamic updates.</li><br>
@@ -19,7 +19,6 @@ The product information is presented in a visually appealing and structured form
 <li>Details Section: Organized product titles, concise descriptions, and essential features.</li>
 <li>Pricing Highlights: Prominent display of pricing, discounts, and special offers.</li>
 <li>Customer Reviews: User ratings, star-based reviews, and testimonials to build trust.</li>
-<br>
 <h3>Image Carousel</h3>
 An interactive carousel enhances the visual browsing experience:<br>
 <li>Thumbnail Navigation: Quickly switch between images with clickable thumbnails.</li><br><br>
@@ -34,4 +33,4 @@ Contributions are welcome! Feel free to fork this repository, make improvements,
 
 <h3>Contact</h3>
 For any questions or suggestions, please reach out at:
-<li>GitHub: your-username</li>
+<li>GitHub: praveen-1101</li>
