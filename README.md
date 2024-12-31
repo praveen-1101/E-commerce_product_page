@@ -20,7 +20,7 @@ The product information is presented in a visually appealing and structured form
 <li>Pricing Highlights: Prominent display of pricing, discounts, and special offers.</li>
 <li>Customer Reviews: User ratings, star-based reviews, and testimonials to build trust.</li>
 <h3>Image Carousel</h3>
-An interactive carousel enhances the visual browsing experience:<br><br>
+An interactive carousel enhances the visual browsing experience:<br>
 <li>Thumbnail Navigation: Quickly switch between images with clickable thumbnails.</li><br>
 <h3>Future Enhancements</h3>
 <li>Add a backend for order processing.</li>
