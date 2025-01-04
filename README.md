@@ -4,11 +4,10 @@ This is a <strong>responsive and interactive e-commerce product page
 </strong> built using modern web development technologies. The page is designed to showcase a product, allow users to view details such as price, size, description, and images.<br>
 <h3>Features</h3>
 The product page is optimized for an exceptional user experience across various devices and screen sizes:<br>
-<li>Mobile-Friendly Layout</li>: Compact navigation, touch-friendly buttons, and vertically stacked components for easy scrolling.<br>
-<li>Tablet Optimization</li>: Balanced grid layout with larger tap targets and collapsible menus for better space utilization.<br>
-<li>Desktop View</li>: Grid-based design with intuitive navigation, hover effects, and detailed product displays for immersive browsing.<br>
-<li>Retina-Ready</li>: High-quality visuals and scalable vector icons for stunning clarity on high-resolution screens.
-<br>
+<li>Mobile-Friendly Layout: Compact navigation, touch-friendly buttons, and vertically stacked components for easy scrolling.</li>
+<li>Tablet Optimization: Balanced grid layout with larger tap targets and collapsible menus for better space utilization.</li>
+<li>Desktop View: Grid-based design with intuitive navigation, hover effects, and detailed product displays for immersive browsing.</li>
+<li>Retina-Ready: High-quality visuals and scalable vector icons for stunning clarity on high-resolution screens.</li>
 <h3>Technologies Used</h3>
 <li>HTML5: For structuring the page content.</li>
 <li>CSS3: For styling and responsive layout.</li>
