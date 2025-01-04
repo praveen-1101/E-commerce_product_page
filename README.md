@@ -1,14 +1,13 @@
 # E-Commerce Product Page
 <h3>Overview</h3>
 This is a <strong>responsive and interactive e-commerce product page
-</strong> built using modern web development technologies. The page is designed to showcase a product, allow users to view details.<br>
-This project is a responsive e-commerce product page designed to showcase clothing items. It provides users with an intuitive interface to browse and view products, including their details such as price, size, description, and images.<br>
-## Features
+</strong> built using modern web development technologies. The page is designed to showcase a product, allow users to view details such as price, size, description, and images.<br>
+<h3>Features</h3>
 The product page is optimized for an exceptional user experience across various devices and screen sizes:<br>
-- **Mobile-Friendly Layout:** Compact navigation, touch-friendly buttons, and vertically stacked components for easy scrolling.<br>
-- **Tablet Optimization:** Balanced grid layout with larger tap targets and collapsible menus for better space utilization.<br>
-- **Desktop View:** Grid-based design with intuitive navigation, hover effects, and detailed product displays for immersive browsing.<br>
-- **Retina-Ready:** High-quality visuals and scalable vector icons for stunning clarity on high-resolution screens.
+<li>Mobile-Friendly Layout</li>: Compact navigation, touch-friendly buttons, and vertically stacked components for easy scrolling.<br>
+<li>Tablet Optimization</li>: Balanced grid layout with larger tap targets and collapsible menus for better space utilization.<br>
+<li>Desktop View</li>: Grid-based design with intuitive navigation, hover effects, and detailed product displays for immersive browsing.<br>
+<li>Retina-Ready</li>: High-quality visuals and scalable vector icons for stunning clarity on high-resolution screens.
 <br>
 <h3>Technologies Used</h3>
 <li>HTML5: For structuring the page content.</li>
